@@ -1,2 +1,2 @@
 # Statistics-for-Data-Scietists
-Exemplos do Livro Estatística para Cientista de Dados
+Projetos de estudo do livro: Estatística para Cientista de Dados
